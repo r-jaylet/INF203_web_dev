@@ -1,0 +1,9 @@
+Question 1a:
+
+Question 1c:
+The browser displays the same page as before.
+The tab displays the text in the header.
+
+Question 1e:
+The header's tag <head> can be unclosed without any change.
+The tag <strong> can have an impact if it is badly closed as all the text in the page can be contained in it and thus be bold.

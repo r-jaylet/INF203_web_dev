@@ -1,0 +1,18 @@
+#di1 {
+  border-width: 1px;
+  border-style: solid;
+  padding: 20px;
+}
+img {
+  margin: 14px;
+  float: left;
+}
+.di3 {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  width: 460px;
+  height: 460px;
+  background-color: silver;
+  margin: 10px;
+}
